@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>Actions</key>
+        <array>
+                <dict>
+                        <key>Image File</key>
+                        <string>youdao.png</string>
+                        <key>Service Name</key>
+                        <string>有道词典 • 查询选中内容</string>
+                        <key>Title</key>
+                        <string>Dict</string>
+                </dict>
+        </array>
+        <key>Extension Description</key>
+        <string>Make a new Stickies note with the selected text.</string>
+        <key>Extension Identifier</key>
+        <string>com.sunznx.popclip.youdaodict</string>
+        <key>Extension Name</key>
+        <string>YoudaoDict</string>
+        <key>Required OS Version</key>
+        <string>10.7</string>
+        <key>Version</key>
+        <integer>2</integer>
+</dict>
+</plist>
